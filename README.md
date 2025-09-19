@@ -1,3 +1,13 @@
+# @discere-os/boost.algorithm.wasm
+
+WebAssembly port of boost.algorithm - High-performance C++ algorithms library with SIMD optimizations and comprehensive TypeScript interface.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/boost.algorithm-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/boost.algorithm.wasm)](https://jsr.io/@discere-os/boost.algorithm.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Fboost.algorithm.wasm.svg)](https://badge.fury.io/js/@discere-os%2Fboost.algorithm.wasm)
+[![License](https://img.shields.io/badge/License-BSL--1.0-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
+
 Algorithm, part of collection of the [Boost C++ Libraries](http://github.com/boostorg), is a collection of general purpose algorithms.
 
 ### License
@@ -33,3 +43,19 @@ Branch          | Travis | Appveyor | Coverity Scan | codecov.io | Deps | Docs |
 * Discussions about the library are held on the [Boost developers mailing list](http://www.boost.org/community/groups.html#main). Be sure to read the [discussion policy](http://www.boost.org/community/policy.html) before posting and add the `[algorithm]` tag at the beginning of the subject line.
 
 
+## 💖 Support This Work
+
+This WebAssembly port is part of a larger effort to bring professional desktop applications to browsers with native performance.
+
+**👨‍💻 About the Maintainer**: [Isaac Johnston (@superstructor)](https://github.com/superstructor) - Building foundational browser-native computing infrastructure through systematic C/C++ to WebAssembly porting.
+
+**📊 Impact**: 70+ open source WASM libraries enabling professional applications like Blender, GIMP, and scientific computing tools to run natively in browsers.
+
+**🚀 Your Support Enables**:
+- Continued maintenance and updates
+- Performance optimizations
+- New library ports and integrations
+- Documentation and tutorials
+- Cross-browser compatibility testing
+
+**[💖 Sponsor this work](https://github.com/sponsors/superstructor)** to help build the future of browser-native computing.
